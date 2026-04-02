@@ -1,5 +1,6 @@
 # filter-products
 
+<img width="1897" height="769" alt="image" src="https://github.com/user-attachments/assets/ac83ef00-c809-4150-9112-8d3c78ce5bf7" />
 
 ```markdown
 # 🛍️ Tech-X Ultimate Store
